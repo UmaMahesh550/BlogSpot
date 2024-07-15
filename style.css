@@ -1,0 +1,30 @@
+body{
+    margin: 5%;
+    background-image: url(https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20%;
+}
+input[type=checkbox] {
+    width: 15px;
+    height: 15px;
+    margin-right: 100px;
+    margin-left: 10px;
+ }
+ .margin{
+    margin-left: 5%;
+    margin-right: 5%;
+ }
+ a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-larger;
+    font-weight: 600;
+ }
+ h2{
+    text-align: center;
+    margin-top: 50px;
+ }
